@@ -1,4 +1,4 @@
-![Laravel Wallet](https://user-images.githubusercontent.com/5111255/48687709-a7c2fa00-ebd3-11e8-8714-c4f3efe93f02.png)
+![Laravel Wallet](https://github.com/bavix/laravel-wallet/assets/5111255/95e7877c-a950-4b04-9414-de62216d31c2)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/588400f5f40cbbf3a8ab/maintainability)](https://codeclimate.com/github/bavix/laravel-wallet/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/588400f5f40cbbf3a8ab/test_coverage)](https://codeclimate.com/github/bavix/laravel-wallet/test_coverage) [![Financial Contributors on Open Collective](https://opencollective.com/laravel-wallet/all/badge.svg?label=financial+contributors)](https://opencollective.com/laravel-wallet) [![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2Fbavix%2Flaravel-wallet%2Fmaster)](https://packagist.org/packages/bavix/laravel-wallet)
 
@@ -6,11 +6,11 @@
 
 [![Sparkline](https://stars.medv.io/bavix/laravel-wallet.svg)](https://stars.medv.io/bavix/laravel-wallet)
 
-laravel-wallet - Easy work with virtual wallet.
+laravel-wallet - It's easy to work with a virtual wallet.
 
 [[Benchmark](https://github.com/bavix/laravel-wallet-benchmark/)] 
 [[Documentation](https://bavix.github.io/laravel-wallet/)] 
-[[Get Started](https://bavix.github.io/laravel-wallet/#/basic-usage)] 
+[[Get Started](https://bavix.github.io/laravel-wallet/guide/introduction/)] 
 
 * **Vendor**: bavix
 * **Package**: laravel-wallet
@@ -34,7 +34,8 @@ To perform the migration, you will be [helped by the instruction](https://bavix.
 
 I want to create a cozy place for developers using the wallet package. This will help you find bugs faster, get feedback and discuss ideas.
 
-![telegram](https://user-images.githubusercontent.com/5111255/188698261-1306c729-de56-4cff-8190-fb5fbcb1b266.jpg)
+![telegram](https://github.com/bavix/laravel-wallet/assets/5111255/ed2b1193-c0c6-41af-83cb-0fe61ae8df21)
+
 
 Telegram: [@laravel_wallet](https://t.me/laravel_wallet)
 
